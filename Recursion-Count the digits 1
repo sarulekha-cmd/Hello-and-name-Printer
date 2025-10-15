@@ -19,6 +19,5 @@ public class Main {
         else
             System.out.println("The Count the digits: " + countDigits(num));
 
-        sc.close();
     }
 }
